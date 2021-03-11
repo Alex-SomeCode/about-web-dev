@@ -290,6 +290,13 @@ h5 {
     .main-container{
         margin: 0 2%;
     }
+    .projects-container {
+        flex: 0 1 100%;
+    }
+
+    .main-container {
+        margin: 0;
+    }
 }
 
 
@@ -356,5 +363,6 @@ h5 {
     .main-content-container {
         flex: 0 1 750px;
     }
+
 
 }
