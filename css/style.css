@@ -295,6 +295,10 @@ h5 {
   .soft-skills-container {
     margin: 5px;
   }
+
+  .main-content-container {
+    flex: 0 1 680px;
+  }
 }
 
 @media (max-width: 500px) {
@@ -303,5 +307,9 @@ h5 {
   }
   .points{
     display: none;
+  }
+
+  .main-content-container {
+    flex: 0 1 300px;
   }
 }
