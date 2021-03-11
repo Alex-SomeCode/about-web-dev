@@ -281,7 +281,7 @@ h5 {
   .flex-wrrap-wrap {
     display: flex;
     flex-wrap: wrap;
-    /*align-items: center;*/
+    align-items: center;
     justify-content: space-around;
   }
 
