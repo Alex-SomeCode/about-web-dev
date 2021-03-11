@@ -362,6 +362,7 @@ h5 {
 
     .main-content-container {
         flex: 0 1 750px;
+        margin: 1%;
     }
 
 
