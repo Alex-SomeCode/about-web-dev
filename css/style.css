@@ -92,11 +92,6 @@ ol li {
     line-height: 24px;
 }
 
-.margin-left{
-    color: black;
-    font-weight: bold;
-}
-
 ol li a {
     margin-left: 10px;
 }
@@ -331,9 +326,5 @@ h5 {
     .main-content-container {
         flex: 0 1 750px;
     }
-    .margin-left{
-        margin-left: 10px;
-        color: black;
-        font-weight: bold;
-    }
+
 }
