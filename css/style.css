@@ -63,6 +63,7 @@ h1 {
 }
 
 /* projects-container */
+br{display: none}
 .projects-container {
   flex: 0 1 485px;
   margin-bottom: 50px;
@@ -297,7 +298,9 @@ h5 {
 }
 
 @media (max-width: 495px) {
-
+  br {
+    display: inline;
+  }
   .points{
     display: none;
   }
