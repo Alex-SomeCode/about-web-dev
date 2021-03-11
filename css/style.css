@@ -256,12 +256,17 @@ h5 {
     padding: 0;
   }
 
+  .main-content-container h2{
+    margin-top: 10px;
+  }
+
   .asside-container {
     flex: 0 1 100%;
   }
 
   .img {
     width: 250px;
+    margin: 0 auto;
   }
 
   .main-container {
@@ -275,7 +280,8 @@ h5 {
   .flex-wrrap-wrap {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    /*align-items: center;*/
+    justify-content: space-around;
   }
 
   .asside-container h3 {
@@ -287,5 +293,12 @@ h5 {
   .contacts-container,
   .soft-skills-container {
     margin: 5px;
+  }
+}
+
+@media (max-width: 495px) {
+
+  .points{
+    display: none;
   }
 }
