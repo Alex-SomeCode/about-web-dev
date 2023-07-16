@@ -3,6 +3,8 @@ body {
     background-color: #f5f7fa;
     padding: 40px;
     margin: 0;
+    cursor: default;
+
 }
 
 .flex-wrapper {
