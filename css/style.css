@@ -17,7 +17,7 @@ p {
 
 /* main-content-container */
 .main-container {
-    max-width: 1200px;
+    max-width: 1095px;
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -30,7 +30,7 @@ p {
 /* main-content-container */
 .main-content-container {
     flex: 0 1 100%;
-    padding: 100px 0 100px 90px;
+    padding: 100px 0 100px 50px;
 }
 
 .about-developer-container {
