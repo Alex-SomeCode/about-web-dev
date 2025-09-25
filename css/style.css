@@ -17,7 +17,7 @@ p {
 
 /* main-content-container */
 .main-container {
-    max-width: 1095px;
+    max-width: 975px;
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -74,7 +74,7 @@ br {
 }
 
 .projects-container {
-    flex: 0 1 81%;
+    flex: 0 1 100%;
     margin-bottom: 50px;
 }
 
@@ -279,7 +279,7 @@ h5 {
 
 @media (max-width: 1300px) {
     .main-container {
-        margin: 0px 2%;
+        margin: 0px auto;
     }
     
 }
